@@ -18,8 +18,22 @@ git
 node.js
 vscode
 ```
-  
-### <h3> 🔧 Instalação
+### <h3> 🔧 Instalação via Baixar o arquivo .ZIP
+
+Siga as etapas para instalar corretamente
+
+```
+baixe o arquivo .ZIP
+```
+Localize o arquivo baixado e extraia o conteúdo:  
+```
+Entre na pasta extraida e vá até a pasta do projeto, apague o nome "-main", a pasta a ser aberta no VScode deve ter o nome de "AltoroJ.REST.API"
+```
+Abra no VScode a pasta raiz do projeto e em seguida:  
+```
+npm install cypress@9.4.1
+```  
+### <h3> 🔧 Instalação via git clone
 
 Siga as etapas para instalar corretamente
 
@@ -28,7 +42,7 @@ git clone 'aqui a rota https do repositório'
 ```
 
 ```
-npm install
+npm install cypress@9.4.1
 ```  
 
 
